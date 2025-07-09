@@ -1,5 +1,5 @@
-# P-HARSHAVARDHAN
-<h1 align="center">Hi 👋, I'm Harshavardhan Palle</h1>
+# P HARSHAVARDHAN
+<h1 align="center">Hi 👋, I'm Harshavardhan P</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | AI Explorer | Logic Builder | Passionate Developer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8b2f.gif">
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Backend with Django & AI Tools**
 - 💬 Ask me about **Python, GitHub, Git, FastAPI, Resume Building**
 - 👨‍💻 Visit my portfolio [link coming soon]
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **harshavardhanpalle.data@gmail.com**
 - 📄 Know about my experiences [link to your resume or Notion CV]
 
 ---
