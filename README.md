@@ -43,7 +43,6 @@
 ---
 
 ### 🏆 Achievements:
-- 💡 Built 30+ daily mini projects in Python and DSA
 - 💻 Consistent GitHub contributor
 - 🚀 Working on AI-powered Resume Optimizer project
 
