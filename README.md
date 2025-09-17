@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Python + DSA + Projects to get interview-ready**
 - 🌱 I’m currently learning **Backend with Django & AI Tools**
-- 💬 Ask me about **Python, GitHub, Git, FastAPI, Resume Building**
+- 💬 Ask me about **Python, Sql, GitHub, Git, FastAPI, Resume Building**
 - 👨‍💻 Visit my portfolio [link coming soon]
 - 📫 Reach me at **harshavardhanpalle.data@gmail.com**
 - 📄 Know about my experiences [link to your resume or Notion CV]
