@@ -1,12 +1,12 @@
 # P HARSHAVARDHAN
-<h1 align="center">Hi 👋, I'm Harshavardhan P</h1>
+<h1 align="center">Hi 👋, I'm Harshavardhan </h1>
 <h3 align="center">🚀 Aspiring Software Engineer | AI Explorer | Logic Builder | Passionate Developer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8b2f.gif">
 
 - 🔭 I’m currently working on **Python + DSA + Projects to get interview-ready**
-- 🌱 I’m currently learning **Backend with Django & AI Tools**
-- 💬 Ask me about **Python, Sql, GitHub, Git, FastAPI, Resume Building**
+- 🌱 I’m currently learning ** AI Tools **
+- 💬 Ask me about **Python, Sql, GitHub, Git, FastAPI , Data Analysis**
 - 👨‍💻 Visit my portfolio [link coming soon]
 - 📫 Reach me at **harshavardhanpalle.data@gmail.com**
 - 📄 Know about my experiences [link to your resume or Notion CV]
@@ -28,7 +28,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <!-- img src="https://img.shields.io</badge/Django-092E20?style=flat&logo=django&logoColor=white"/>  -->
+  < img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 </p>
 
@@ -44,7 +45,7 @@
 
 ### 🏆 Achievements:
 - 💻 Consistent GitHub contributor
-- 🚀 Working on AI-powered Resume Optimizer project
+- 🚀 Working on projects to learn more
 
 ---
 
